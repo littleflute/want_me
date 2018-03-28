@@ -1,3 +1,5 @@
+### [v0.0.2](https://github.com/kathyonroad/want_me/edit/master/README.md)
+
 "I'd Love You To Want Me"   By Lobo (1972)
 
 When I saw you standing there
